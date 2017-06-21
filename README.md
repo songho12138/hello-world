@@ -1,5 +1,3 @@
-package chap02;
-
 public class GuessGame {
 
    Player p1;
